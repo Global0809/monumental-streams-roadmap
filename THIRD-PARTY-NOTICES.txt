@@ -144,6 +144,13 @@ DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.
 
+Natural Earth land polygons
+---------------------------
+The illustrative globe uses Natural Earth 1:110m land polygons (public domain),
+rounded for rendering. Data and terms of use are available at
+https://www.naturalearthdata.com/downloads/110m-physical-vectors/110m-land/
+https://www.naturalearthdata.com/about/terms-of-use/
+
 Space Grotesk
 ==================================
 Copyright 2020 The Space Grotesk Project Authors (https://github.com/floriankarsten/space-grotesk)
